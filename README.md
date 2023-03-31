@@ -1,12 +1,7 @@
-<h2 style="text-align:center">
-  Good day and good mood
-</h2>
-
 <div align="center">
   <img src="./assets/logo.gif" height="350px">
 </div>
 
----
 
 ## My specialty
 
@@ -16,6 +11,8 @@ Work experience - more than 8 years
 ## My tech skills
 
 `TypeScript`, `React`, `Redux-Thunk`, `Redux-Toolkit`, `EntityAdapter (Redux-Toolkit)`, `RTK-Query (Redux-Toolkit)`, `JavaScript`, `Styled-Components`, `Vite`, `Webpack`, `Module Federation (Webpack 5)`, `MUI`, `RsuiteJS`, `StoryBook`, `i18next`, `Code-Review`, `CSS Grid`, `Debugging`
+
+## Stats
 
 <table align="center">
   <tr>
