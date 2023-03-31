@@ -2,7 +2,7 @@
   Good day and good mood
 </h2>
 
-<div style="text-align:center">
+<div align="center">
   <img src="./assets/logo.gif" height="350px">
 </div>
 
