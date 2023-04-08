@@ -25,7 +25,7 @@ Work experience - more than 8 years
   </tr>
   <tr>
     <td colspan=2 align="center">
-      [![GitHub Streak](https://streak-stats.demolab.com?user=rv-ivanushkin&theme=sea&hide_border=true&border_radius=6&mode=weekly&background=3498FF)](https://git.io/streak-stats)
+      <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=rv-ivanushkin&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Aras Güngöre's GitHub Readme Streak Stats" /> </a>
     </td>
   </tr>
 </table>
